@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben [Adınız]!
+# 👋 Merhaba, Ben Alparslan Akdemir!
 
 Hoş geldiniz! Benim Github profilime göz attığınız için çok mutlu oldum. Burada, yazılım geliştirme yolculuğumda öğrendiklerimi ve üzerinde çalıştığım projeleri paylaşıyorum.
 
@@ -6,10 +6,10 @@ Hoş geldiniz! Benim Github profilime göz attığınız için çok mutlu oldum.
 
 ## Hakkımda
 
-Merhaba! Ben [Adınız], [meslek/iş alanı, örneğin: yazılım geliştirici, web tasarımcı, veri analisti] olarak çalışıyorum. Teknolojiye olan ilgim, [ilginç bir anekdot veya kişisel bir hikaye, örneğin: küçük yaşlardan itibaren bilgisayarlarla vakit geçirmemle başladı ve bugün yazılım geliştirmeye olan tutkumla devam ediyor] devam etti. Bu Github sayfası, projelerimi ve yazılım dünyasına katkılarımı paylaşmam için önemli bir platform oldu.
+Merhaba! Ben [Alparslan], ben bilişim bölümü öğrencisiyim. Bu Github sayfası, projelerimi ve yazılım dünyasına katkılarımı paylaşmam için önemli bir platform oldu.
 
 Çeşitli teknolojilerde deneyimim var. Özellikle şunlarla ilgileniyorum:
-- Web geliştirme (HTML, CSS, JavaScript, React, Node.js)
+- Web geliştirme (C# , Python)
 - Python ile yazılım geliştirme
 - Veri analizi ve görselleştirme
 - Açık kaynak projelere katkı sağlama
@@ -31,20 +31,15 @@ Her projede, yazılım geliştirme sürecimi detaylı bir şekilde açıklamaya 
 
 Beni sosyal medya hesaplarım üzerinden takip edebilirsiniz:
 
-- **Twitter**: [@twitter_hesabınız](https://twitter.com/twitter_hesabınız)
-- **LinkedIn**: [LinkedIn Profilim](https://www.linkedin.com/in/linkedin-adınız)
-- **Instagram**: [@instagram_hesabınız](https://www.instagram.com/instagram_hesabınız)
-- **Blog**: [Blog Adı](https://blogunuz.com)
+- **Instagram**: [@Alparslan_Akdemir_1905](https://www.instagram.com/instagram_hesabınız).
 
 ---
 
 ## Teknolojiler & Araçlar
 
 💻 **Programlama Dilleri**:
-- JavaScript (React, Node.js)
 - Python
-- HTML, CSS
-- Java
+- C#
 
 🛠️ **Araçlar ve Teknolojiler**:
 - Git & GitHub
